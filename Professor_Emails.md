@@ -485,6 +485,80 @@ anton.belov@narxoz.kz | +7 747 760 6691 | github.com/lolylon
 
 ---
 
+
+============================================================
+# UNIVERSITY OF TORONTO (CS) — mega-reach / "for fun"
+============================================================
+CRITICAL (official DCS pages, checked Aug 2026):
+- International applicants are **NOT considered for the research MSc** in Computer Science.
+- For internationals, DCS points to: **Direct-Entry PhD** (funded research) or **MScAC** (professional; mostly self-funded + paid internship).
+- Direct-Entry PhD needs roughly **A–** equivalent; only ~5–10% of applicants get offers. Your ~82% is a stretch.
+- Apps for Fall 2027 open ~October 2026.
+- Do NOT email asking for "MSc supervision" — ask about Direct-Entry PhD / research fit.
+
+## T1) Dr. Fan Long (AI for SE / PL / systems security)
+**To:** fanl@cs.toronto.edu
+**Subject:** Prospective Direct-Entry PhD (Fall 2027) — AI for software engineering
+
+Dear Dr. Long,
+
+My name is Anton Belov, a final-year Digital Engineering student (English-taught) at Narxoz University, Kazakhstan. I am exploring the Direct-Entry PhD in Computer Science at the University of Toronto for Fall 2027 (I understand international applicants are directed to this path rather than the research MSc).
+
+I saw that you are recruiting students in AI-powered software engineering and related areas. Your work on using ML/LLMs to improve software development automation and reliability is the direction I want to grow into.
+
+My strongest experience is building real systems: I designed and delivered a full telemedicine platform solo (TypeScript/NestJS, PostgreSQL, Redis, Docker, four clients, multi-tenancy, access auditing). That made me curious about automated analysis, LLM tooling for developers, and reliable software engineering research.
+
+Would you consider taking a Direct-Entry PhD student for Fall 2027? CV and transcript attached; code at github.com/lolylon. My degree is English-taught (MOI available); DET planned.
+
+Thank you very much for your time.
+Best regards,
+Anton Belov
+anton.belov@narxoz.kz | +7 747 760 6691 | github.com/lolylon
+
+---
+
+## T2) Dr. Gerald Penn (NLP / acoustic modelling / spoken language)
+**To:** gpenn@cs.toronto.edu
+**Subject:** Prospective Direct-Entry PhD (Fall 2027) — speech / acoustic ML
+
+Dear Dr. Penn,
+
+My name is Anton Belov, a final-year Digital Engineering student (English-taught) at Narxoz University, Kazakhstan. I am exploring the Direct-Entry PhD in Computer Science at U of T for Fall 2027.
+
+Your research in acoustic modelling and spoken language processing closely matches a project I care about: I trained an audio-based model that estimates gunshot direction from sound using a self-collected labelled dataset and iterative training. I also ran a 102-participant study on perception of AI vs human audio.
+
+I do not claim speech-lab seniority yet; I want to deepen audio/speech ML under careful supervision. I also have solid software engineering experience (full telemedicine platform), so I can implement systems and experiments.
+
+Would you consider supervising a Direct-Entry PhD student for Fall 2027? CV and transcript attached; code at github.com/lolylon.
+
+Thank you for your time.
+Best regards,
+Anton Belov
+anton.belov@narxoz.kz | +7 747 760 6691 | github.com/lolylon
+
+---
+
+## T3) Dr. Eyal de Lara (distributed systems + applied ML / speech as biosignal)
+**To:** delara@cs.toronto.edu
+**Subject:** Prospective Direct-Entry PhD (Fall 2027) — systems & applied audio ML
+
+Dear Dr. de Lara,
+
+My name is Anton Belov, a final-year Digital Engineering student (English-taught) at Narxoz University, Kazakhstan. I am exploring the Direct-Entry PhD in Computer Science at U of T for Fall 2027.
+
+I am interested in your work at the intersection of systems and applied ML — including recent research using speech as a biosignal (e.g., phoneme-aware acoustic analysis for lung function at ICASSP 2025). That mix of audio signals and real systems fits how I like to work.
+
+I trained an audio ML model on a self-collected dataset, and I build production-style software (telemedicine platform; OCR automation). I would be glad to contribute engineering effort on an existing systems + sensing/ML project.
+
+Would you consider taking a Direct-Entry PhD student for Fall 2027? CV and transcript attached; code at github.com/lolylon.
+
+Thank you for your time and consideration.
+Best regards,
+Anton Belov
+anton.belov@narxoz.kz | +7 747 760 6691 | github.com/lolylon
+
+---
+
 # FOLLOW-UP (once, 7–10 days later)
 
 **Subject:** Re: [same subject]
