@@ -6,6 +6,8 @@ EDUCATION
 Narxoz University — Almaty, Kazakhstan
 Bachelor of Science in Digital Engineering (English-taught)          2023 – 2027
 Expected graduation: June 2027 | Average: ~82%
+Academic Merit Grant (from Year 2): full tuition coverage + monthly stipend
+    for strong academic performance
 Relevant coursework: Algorithms and Programming (Python), Object-Oriented Programming,
 Data Structures, Database Systems, Operating Systems, Computer Networks, Software Engineering,
 Machine Learning Fundamentals, Backend Engineering, Cloud Computing, Computer Systems Architecture
