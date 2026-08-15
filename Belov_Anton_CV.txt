@@ -71,7 +71,8 @@ HACKATHONS
 - Narxoz University hackathon (2024): built a class-booking app for university sports (PE) sessions
 
 TECHNICAL SKILLS
-Languages: TypeScript, JavaScript, Python, HTML, CSS, SQL
+Languages: TypeScript, JavaScript, Python, Java, C++ (coursework), HTML, CSS, SQL
+Mobile: Android app development (Java; coursework / course projects)
 Backend: NestJS, Prisma, PostgreSQL, Redis, Docker
 Frontend: React, Vite, Telegram Mini Apps, Three.js
 Networking: Cisco Packet Tracer/IOS, VLAN, VLSM, STP, inter-VLAN routing, DHCP, DNS, SSH
