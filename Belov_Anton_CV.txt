@@ -41,6 +41,12 @@ Gunshot Direction Estimation (CS:GO) — Machine Learning | Python, audio proces
 - Iterative training loop with incremental data improved localization accuracy over time; migrated from TensorFlow to a faster training library to cut training time
 - Reached a working prototype that predicted shot direction with a reasonable margin of error
 
+Narxoz Campus Network Infrastructure (2025) | Cisco Packet Tracer, Cisco IOS (3560/2960), VLAN, VLSM, STP, SSH, DHCP, DNS, FTP, NTP
+github.com/lolylon/Network-architecture
+- Designed and implemented a Packet Tracer model of the Narxoz campus network: 3-tier architecture for ~1830 devices, mapped 1:1 to real departments (students, faculty, admin, IT, library, labs, servers)
+- Built full topology with 7 VLANs, VLSM, inter-VLAN routing, Rapid PVST+, SSH, DHCP/DNS/FTP/NTP; presented the project
+- Fully working lab verified: ping, DHCP, DNS, FTP, SSH, NTP
+
 Miru Remote (Telemedicine Platform) | TypeScript, NestJS, Prisma, PostgreSQL, React, Vite, LiveKit, MinIO, Redis, Docker
 github.com/lolylon/DMU
 - Full-stack telemedicine system: booking, video visits, consents, e-signed conclusions
@@ -68,6 +74,7 @@ TECHNICAL SKILLS
 Languages: TypeScript, JavaScript, Python, HTML, CSS, SQL
 Backend: NestJS, Prisma, PostgreSQL, Redis, Docker
 Frontend: React, Vite, Telegram Mini Apps, Three.js
+Networking: Cisco Packet Tracer/IOS, VLAN, VLSM, STP, inter-VLAN routing, DHCP, DNS, SSH
 AI/ML: model training, audio-based classification, dataset collection, prompt engineering; hands-on use of AI tools since 2022
 Other: LiveKit, MinIO, desktop automation (CustomTkinter, openpyxl, pdfplumber, PyInstaller), Git
-Languages: English (B2), Russian (C2), Kazakh (A2)
+Spoken languages: English (B2), Russian (C2), Kazakh (A2)
