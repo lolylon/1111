@@ -1,0 +1,71 @@
+Belov Anton
+Almaty, Kazakhstan
+anton.belov@narxoz.kz | +7 747 760 6691 | github.com/lolylon
+
+EDUCATION
+Narxoz University — Almaty, Kazakhstan
+Bachelor of Science in Digital Engineering (English-taught)          2023 – 2027
+Expected graduation: June 2027 | Average: ~82%
+Relevant coursework: Algorithms and Programming (Python), Object-Oriented Programming,
+Data Structures, Database Systems, Operating Systems, Computer Networks, Software Engineering,
+Machine Learning Fundamentals, Backend Engineering, Cloud Computing, Computer Systems Architecture
+
+RESEARCH
+Impact of Artificial Intelligence on Media and the Music Industry — Narxoz University (2026)
+Research project, "Research Methods" course (in English)
+- Designed and ran a survey study with 102 respondents; presented findings with charts/statistics
+- Ran a blind A/B test using the same audio clip labeled as "AI" vs "real" to measure how the AI label alone biases listener perception
+- Key finding: listeners often could not reliably distinguish AI from human performance (~50/50, with some lean toward "AI"); compared results against expert opinions and literature
+- Defended at university (not formally published)
+
+EXPERIENCE
+Top Steel Construction LLP — Almaty, Kazakhstan
+Intern, Software Development (Automation & Web)                     Jun 2026 – Aug 2026
+- Built a Windows desktop tool for production accounting: invoice photos/PDF/Word → validated Excel "production status" updates without duplicating rows or breaking existing columns
+- Implemented invoice OCR pipeline (photo → structured marks/quantities → spreadsheet matching with aliases and business rules)
+- Developed a branded web cost calculator and interactive Three.js 3D hangar viewer; prepared pages for CMS transfer (DataLife Engine)
+- Delivered portable .exe builds and instructions used on real production files
+
+Miru Systems LLP — Almaty, Kazakhstan
+Independent Full-stack Developer (unpaid project delivery)          Aug 2026
+- Designed and built an end-to-end telemedicine platform (DMU) intended for city-wide clinic deployment in Almaty with planned CIS expansion: API, four clients (staff, admin, patient Mini App, kiosk), video visits, and object storage
+- Implemented multi-tenancy, TOTP, clinical access audit, and admin isolation from clinical data under a production-style specification
+- Delivered a complete MVP (booking, consents, e-signed conclusions), handed over the codebase, and left the system in review/validation ahead of planned 2027 rollout
+
+PROJECTS
+Gunshot Direction Estimation (CS:GO) — Machine Learning | Python, audio processing, neural networks
+- Trained a model to estimate gunshot direction from in-game audio and display the bearing (in degrees) on a radial indicator around the crosshair
+- Built a self-collected dataset: per-shot logs pairing recorded audio with ground-truth firing angles, gathered via bot matches on a practice range
+- Iterative training loop with incremental data improved localization accuracy over time; migrated from TensorFlow to a faster training library to cut training time
+- Reached a working prototype that predicted shot direction with a reasonable margin of error
+
+Miru Remote (Telemedicine Platform) | TypeScript, NestJS, Prisma, PostgreSQL, React, Vite, LiveKit, MinIO, Redis, Docker
+github.com/lolylon/DMU
+- Full-stack telemedicine system: booking, video visits, consents, e-signed conclusions
+- Built API, database, doctor/admin apps, Telegram Mini App, video, storage, Docker pilot, and security baseline
+
+Aizhan (AI Registrar) | React, Vite, Telegram WebApp API, NestJS
+github.com/lolylon/DMU
+- Patient Telegram Mini App + clinic kiosk for self-booking and triage
+- UI/flows: service menu, doctor booking, symptom routing, SOS, kiosk pairing, IIN login
+
+Production Status Automation App | Python, CustomTkinter, openpyxl, pdfplumber, python-docx, PyInstaller
+github.com/lolylon/Business_Automatization
+- Desktop app for factory document workflow: GUI, Excel logic, preview, backup/undo, .vedproj, .exe packaging
+- OCR for paper invoices and PDF→Excel→Word pipelines used on real manufacturing documents
+
+Top Steel Frame Configurator | HTML, CSS, JavaScript, Three.js
+github.com/lolylon/3D-modeling
+- Online estimator for metal warehouses + procedural Three.js cutaway model driven by form inputs
+
+HACKATHONS
+- 3rd place — 72-hour game development hackathon, Satbayev University (2022): built a game as a team under a 3-day deadline
+- Narxoz University hackathon (2024): built a class-booking app for university sports (PE) sessions
+
+TECHNICAL SKILLS
+Languages: TypeScript, JavaScript, Python, HTML, CSS, SQL
+Backend: NestJS, Prisma, PostgreSQL, Redis, Docker
+Frontend: React, Vite, Telegram Mini Apps, Three.js
+AI/ML: model training, audio-based classification, dataset collection, prompt engineering; hands-on use of AI tools since 2022
+Other: LiveKit, MinIO, desktop automation (CustomTkinter, openpyxl, pdfplumber, PyInstaller), Git
+Languages: English (B2), Russian (C2), Kazakh (A2)
