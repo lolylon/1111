@@ -432,6 +432,59 @@ anton.belov@narxoz.kz | +7 747 760 6691 | github.com/lolylon
 
 ---
 
+
+============================================================
+# QUEEN'S UNIVERSITY (School of Computing) — bonus / semi-reach
+============================================================
+Notes:
+- Research MSc is normally funded; deadline ~Jan 15, 2027 for Fall 2027 funding.
+- You do NOT need a supervisor before applying, but you DO need one to be accepted — email faculty.
+- International bar is high ("A"/first-class). Your ~82% may be borderline depending on conversion — still fine to try.
+- Kingston, Ontario (more expensive city than St. John's, but funded thesis MSc helps).
+
+## Q1) Dr. Ting Hu (evolutionary ML / XAI / bioinformatics) — MIB Lab
+**To:** ting.hu@queensu.ca
+**Subject:** [MIB lab research position inquiry] Prospective MSc Fall 2027 — Anton Belov
+(Use this subject exactly — she asks for it on her lab page.)
+
+Dear Dr. Hu,
+
+My name is Anton Belov, a final-year Digital Engineering student (English-taught) at Narxoz University, Kazakhstan. I plan to apply for a thesis-based MSc in Computing at Queen's for Fall 2027.
+
+I read your recent work connecting evolutionary computation and explainable AI (including the IEEE TEVC roadmap on EC and XAI, and GECCO work on neutrality/simplicity bias). I am interested in ML methods that stay interpretable, not only accurate.
+
+My background mixes experiments and building systems: I ran a 102-participant study on perception of AI vs human music (blind A/B test on labeling effects), and I delivered a full telemedicine platform (TypeScript/NestJS, PostgreSQL, Docker). I also have hands-on model training experience (audio direction estimation on a self-collected dataset).
+
+Would you consider supervising a new MSc student for Fall 2027? CV and transcript attached; code at github.com/lolylon. My degree is English-taught (MOI available).
+
+Thank you very much for your time.
+Best regards,
+Anton Belov
+anton.belov@narxoz.kz | +7 747 760 6691 | github.com/lolylon
+
+---
+
+## Q2) Dr. Yuan Tian (AI for software engineering / LLMs / MSR) — RISE Lab
+**To:** y.tian@queensu.ca
+**Subject:** Prospective MSc student (Fall 2027) — AI for software engineering
+
+Dear Dr. Tian,
+
+My name is Anton Belov, a final-year Digital Engineering student (English-taught) at Narxoz University, Kazakhstan. I plan to apply for a thesis-based MSc in Computing at Queen's for Fall 2027.
+
+Your RISE lab work on reliable AI support for software engineering — including LLM-based code translation (InterTrans, ICSE 2025) and studies of developers' ChatGPT use in GitHub PRs/issues — matches the SE + AI direction I want.
+
+My strongest experience is building real software: I designed and delivered a full telemedicine platform solo (TypeScript/NestJS, PostgreSQL, Redis, Docker, four clients, multi-tenancy, access auditing). Working across that codebase made me curious about automated code analysis, LLM tooling for developers, and mining software repositories.
+
+Could I ask whether you expect to take new MSc students for Fall 2027? CV and transcript attached; code at github.com/lolylon.
+
+Thank you for your time.
+Best regards,
+Anton Belov
+anton.belov@narxoz.kz | +7 747 760 6691 | github.com/lolylon
+
+---
+
 # FOLLOW-UP (once, 7–10 days later)
 
 **Subject:** Re: [same subject]
